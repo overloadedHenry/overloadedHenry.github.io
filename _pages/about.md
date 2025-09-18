@@ -16,17 +16,26 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello everyone, I am Hongyu Ge, a student who is currently studying in Shandong University. My major is mathematics but I am really interested in AI. Specifically, my research domain is multimodal large language models. To be honest, I am new in this area so there many things to learn. I will put my codes on github and I welcome your precious suggestions.
+Hello everyone, I am Hongyu Ge, a student who is currently studying at HKUST-GZ. I got the bachelor's degree in Mathematics at Shandong University and now I am pursuing a master's degree in Data Science and Analytics at HKUST-GZ. 
+
+My research interests include: **Multi-modal Large Language Models, Reasoning models via Reinforcement Learning and Medical Multi-modal Large Language Models**. I am also trying to know something about **VLA**. 
 
 # 🔥 News
 
 # 📝 Publications
 
 # 🎖 Honors and Awards
+Silver Medal, Huawei Ascend AI Innovation Competition, 2024
 
+
+First Prize, Shandong Division, Contemporary Undergraduate Mathematical Contest in Modeling, 2023
+
+
+Second Prize Academic Scholarship, SDU (Top 15%) 2022
 # 📖 Educations
 
 - 2021.09-2025.06 Shandong University.
+- 2025.08-now The Hong Kong University of Science and Technology (Guangzhou)
 
 # 💬 Invited Talks
 
@@ -34,3 +43,4 @@ Hello everyone, I am Hongyu Ge, a student who is currently studying in Shandong 
 
 - 2024.03-2024.06 IFLYTEK CO.LTD, Algorithm.
 - 2024.11-2025.02 The 4hh Paradigm Data & Technology Co., Ltd, Algorihm.
+- 2024.09-2025.03 The Chinsese Academy of Sciences, Shenzhen Institute of Advanced Technology, Research (Remote).

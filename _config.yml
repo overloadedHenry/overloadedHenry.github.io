@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Hongyu Ge"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Bsc in Applied Mathematics"
-  location         : "Shandong, China"
+  avatar           : "images/profile.png"
+  bio              : "MPhil in Data Science and Analytics"
+  location         : "Guangdong, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=hViYe1wAAAAJ&hl"
